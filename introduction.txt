@@ -1,2 +1,3 @@
 Welcome to the git workshop
 This change is staged
+this change is going to staged
